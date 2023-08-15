@@ -3,10 +3,12 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Customer Segmentation Project: A case study in a food stamp company, involving Machine Learning, RFM marketing strategy and the use of Python language.**
-- 🌱 I’m currently learning **Degree in Technology in Data Science from the State Faculty of Technology of Ourinhos - SP (FATEC - Centro Paula Souza), concluded in July 2023. English course.**
-- 👯 I’m looking to collaborate on **At the moment, I am open to opportunities in the data area, aiming to leverage both my knowledge and the company's growth.**
-- 🤝 I’m looking for help with **Machine Learning Algorithms and Statistical Algorithm.**
+- 🔭 I’m currently working on **Project: FairMI - Impartiality in Machine Learning with Application in Medical Imaging.**
+- 🌱 I am currently pursuing a **Master's degree in Computer Science at the Institute of Science and Technology/ICT/UNIFESP.** with completion in August 2025.
+- 👯 I'm studying **English.**
+- 🔭 I worked on **Customer Segmentation Project: A case study in a food stamp company, involving Machine Learning, RFM marketing strategy and the use of Python language.**
+- 🌱 I studied **Graduation in Technology in Data Science at the State College of Technology of Ourinhos - SP (FATEC - Paula Souza Center), with completion in July 2023.**
+- 🤝 I am looking for help for **Machine learning algorithms, statistical algorithms and JUSTICE in image processing.**
 - 👨‍💻 All of my projects are available at [http://lattes.cnpq.br/7745396196723317](http://lattes.cnpq.br/7745396196723317)
 - 💬 Ask me about **Python, SQL and methods.**
 - 📫 How to reach me **isabela.souza5@fatec.sp.gov.br**
