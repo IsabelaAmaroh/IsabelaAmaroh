@@ -4,13 +4,13 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **Project: FairMI - Impartiality in Machine Learning with Application in Medical Imaging.**
-- 🌱 I am pursuing a **Master's degree in Computer Science at the Universidade Federal de São Paulo.** with completion in August 2025.
+- 🌱 I am pursuing a **Master's degree in Computer Science at the Universidade Federal de São Paulo.** - With completion in August 2025.
 - 👯 I'm studying **I'm studying English proficiency and front-end development on the Alura platform.**
 - 🔭 I worked on **Customer Segmentation Project: A case study in a food stamp company, involving Machine Learning, RFM marketing strategy and the use of Python language.**
-- 🌱 I studied **Graduation in Technology in Data Science at the State College of Technology of Ourinhos - SP (FATEC - Paula Souza Center), with completion in July 2023.**
+- 🌱 I studied **Graduation in Technology in Data Science at the State College of Technology of Ourinhos - SP (FATEC - Paula Souza Center) - With completion in July 2023.**
 - 🤝 I am looking for help for **Machine learning algorithms, statistical algorithms and JUSTICE in image processing.**
 - 👨‍💻 All of my projects are available at [http://lattes.cnpq.br/7745396196723317](http://lattes.cnpq.br/7745396196723317)
-- 💬 Ask me about **Tailwindcss, Python, SQL and methods.**
+- 💬 Ask me about **Tailwindcss, Next.JS, Python, SQL and methods.**
 - 📫 How to reach me **isabela.amaro@unifesp.br**
 
 - 📄 Know about my experiences: Internship in the Customer Segmentation Project: A case study in a food stamp company, involving Machine Learning, RFM marketing strategy and the use of Python language to create clusters and solve 9 issues/pains of the company, as a decision-making tool. Member of the Structuring Student Nucleus of the Data Science Course at the Faculty of Technology of the State of São Paulo - FATEC Ourinhos. I often seek knowledge to improve my soft skills, such as fluency in the English language, programming skills, supervised and unsupervised Machine Learning techniques, conducting training courses focused on the area of ​​data, statistics, agile management, SQL, noSQL, Python, front-end with Tailwindcss as well as my hard skills.
