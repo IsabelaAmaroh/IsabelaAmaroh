@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **Project: FairMI - Impartiality in Machine Learning with Application in Medical Imaging.**
-- 🌱 I am currently pursuing a **Master's degree in Computer Science at the Institute of Science and Technology/ICT/UNIFESP.** with completion in August 2025.
+- 🌱 I am currently pursuing a **Master's degree in Computer Science at the Universidade Federal de São Paulo.** with completion in August 2025.
 - 👯 I'm studying **I'm studying English proficiency and front-end development on the Alura platform.**
 - 🔭 I worked on **Customer Segmentation Project: A case study in a food stamp company, involving Machine Learning, RFM marketing strategy and the use of Python language.**
 - 🌱 I studied **Graduation in Technology in Data Science at the State College of Technology of Ourinhos - SP (FATEC - Paula Souza Center), with completion in July 2023.**
