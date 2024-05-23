@@ -34,6 +34,4 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isabelaamaroh&label=Profile%20views&color=0e75b6&style=flat" alt="isabelaamaroh" /> </p>
 
 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
 </div>
