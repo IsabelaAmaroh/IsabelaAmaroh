@@ -15,7 +15,6 @@
 - 📄 Know about my experiences: Internship in the Customer Segmentation Project: A case study in a food stamp company, involving Machine Learning, RFM marketing strategy and the use of Python language to create clusters and solve 9 issues/pains of the company, as a decision-making tool. Member of the Structuring Student Nucleus of the Data Science Course at the Faculty of Technology of the State of São Paulo - FATEC Ourinhos. I often seek knowledge to improve my soft skills, such as fluency in the English language, programming skills, supervised and unsupervised Machine Learning techniques, conducting training courses focused on the area of ​​data, statistics, agile management, SQL, noSQL, Python, front-end with Tailwindcss as well as my hard skills.
 
 <h3 align="left">Languages and Tools:</h3>
-Claro! Aqui está o código HTML atualizado para incluir os ícones de HTML5, CSS3, JavaScript, Visual Studio Code, Tailwind CSS, TypeScript e React:
 
 
 <p align="left">
