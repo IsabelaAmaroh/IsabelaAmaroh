@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Isabela Amaro</h1>
-<h3 align="center">A passionate data scientist from Brazil</h3>
+<h1 align="center">Oi 👋, sou Isabela Amaro</h1>
+<h3 align="center">Uma aprendiz em Ciência de Dados</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
