@@ -11,7 +11,7 @@
 - 👨‍💻 Todos os meus projetos estão disponíveis em [http://lattes.cnpq.br/7745396196723317](http://lattes.cnpq.br/7745396196723317)
 - 📫 Como me contatar: **isabela.amaro@unifesp.br**
 
-![QR Code](./assets/qrcode.png)
+<img src="[./assets/qrcode.png](https://github.com/IsabelaAmaroh/qrcode/blob/main/Untitled.png)" alt="QR Code" width="100"/>
 
 ![QR Code](https://github.com/IsabelaAmaroh/qrcode/blob/main/Untitled.png)
 
