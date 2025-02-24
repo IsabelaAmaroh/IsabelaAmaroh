@@ -11,9 +11,7 @@
 - 👨‍💻 Todos os meus projetos estão disponíveis em [http://lattes.cnpq.br/7745396196723317](http://lattes.cnpq.br/7745396196723317)
 - 📫 Como me contatar: **isabela.amaro@unifesp.br**
 
-<img src="https://github.com/IsabelaAmaroh/qrcode/blob/main/Untitled.png" alt="QR Code" width="200"/>
-
-![QR Code](https://github.com/IsabelaAmaroh/qrcode/blob/main/Untitled.png)
+<img src="https://github.com/IsabelaAmaroh/qrcode/blob/main/Untitled.png" alt="QR Code" width="400"/>
 
 - 📄 Conheça minhas experiências: Estágio no projeto de Segmentação de Clientes: Um estudo de caso em uma empresa do ramo de alimentos, envolvendo aprendizado de máquina, estratégia de marketing de RFM e uso da linguagem Python para criar clusters e resolver 9 questões/dores da empresa sendo ferramenta na tomada de decisão.
   
