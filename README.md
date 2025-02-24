@@ -13,7 +13,7 @@
 
 ![QR Code](./assets/qrcode.png)
 
-![QR Code]([./assets/qrcode.png](https://github.com/IsabelaAmaroh/qrcode/blob/main/Untitled.png))
+![QR Code](https://github.com/IsabelaAmaroh/qrcode/blob/main/Untitled.png)
 
 - 📄 Conheça minhas experiências: Estágio no projeto de Segmentação de Clientes: Um estudo de caso em uma empresa do ramo de alimentos, envolvendo aprendizado de máquina, estratégia de marketing de RFM e uso da linguagem Python para criar clusters e resolver 9 questões/dores da empresa sendo ferramenta na tomada de decisão.
   
