@@ -3,16 +3,19 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 Atualmente, estou trabalhando no Projeto **: Fairmi - Imparcialidade no aprendizado de máquina com aplicação em imagens médicas.**
+- 🔭 Atualmente, faço parte de uma equipe no Projeto: **Fairmi - Imparcialidade no aprendizado de máquina com aplicação em imagens médicas.**. Sou responsável pelo desenvolvimento de uma interface web.
 - 🌱 Faço mestrado em **Ciência da Computação na Universidade Federal de São Paulo.** - Com conclusão em agosto de 2025.
-- 👯 Estou buscando **proficiência em inglês e desenvolvimento de front-end na plataforma Alura.**
-- 🔭 Trabalhei no **Projeto de Segmentação de Clientes: Um estudo de caso em uma empresa do ramo de alimentos, envolvendo aprendizado de máquina, estratégia de marketing de RFM e o uso da linguagem Python.**
+- 🔭 Trabalhei no projeto: **Segmentação de Clientes: Um estudo de caso em uma empresa do ramo de alimentos, envolvendo aprendizado de máquina, estratégia de marketing de RFM e o uso da linguagem Python.**
 - 🌱 Concluí minha graduação em **Tecnologia em Ciência de Dados na Faculdade de Tecnologia de Ourinhos - SP (Fatec - Centro Paula Souza) - em julho de 2023.**
 - 🤝 Estou procurando ajuda para **Algoritmos de Aprendizado de Máquina, Front-end e Processamento de Imagens.**
 - 👨‍💻 Todos os meus projetos estão disponíveis em [http://lattes.cnpq.br/7745396196723317](http://lattes.cnpq.br/7745396196723317)
 - 📫 Como me contatar: **isabela.amaro@unifesp.br**
 
-- 📄 Conheça minhas experiências: Estágio no projeto de Segmentação de Clientes: Um estudo de caso em uma empresa do ramo de alimentos, envolvendo aprendizado de máquina, estratégia de marketing de RFM e uso da linguagem Python para criar clusters e resolver 9 questões/dores da empresa sendo ferramenta na tomada de decisão. Membro do núcleo de estudante de estruturação do curso de Ciência de Dados na Faculdade de Tecnologia do Estado de São Paulo - Fatec Ourinhos. Costumo buscar conhecimento para melhorar minhas habilidades sociais, como fluência no idioma inglês, habilidades em programação, técnicas em aprendizado de máquina supervisionado e não supervisionado, estatística, gerenciamento ágil, SQL, NOSQL, Python e Front-end.
+![QR Code](./assets/qrcode.png)
+
+- 📄 Conheça minhas experiências: Estágio no projeto de Segmentação de Clientes: Um estudo de caso em uma empresa do ramo de alimentos, envolvendo aprendizado de máquina, estratégia de marketing de RFM e uso da linguagem Python para criar clusters e resolver 9 questões/dores da empresa sendo ferramenta na tomada de decisão.
+  
+- Membro do núcleo de estudante de estruturação do curso de Ciência de Dados na Faculdade de Tecnologia do Estado de São Paulo - Fatec Ourinhos.
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
 
