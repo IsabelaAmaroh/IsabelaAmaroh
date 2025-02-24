@@ -10,16 +10,19 @@
 - 👨‍💻 Todos os meus projetos estão disponíveis em [http://lattes.cnpq.br/7745396196723317](http://lattes.cnpq.br/7745396196723317)
 - 📫 Como me contatar: **isabela.amaro@unifesp.br**
 
+<h3 align="left">Conecte-se comigo:</h3>
+<p align="left">
+<a href="www.linkedin.com/in/isabela-amarocd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/isabela-amarocd" height="30" width="40" /></a>
+<a href="https://instagram.com/isabela_amaroh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="isabela_amaroh" height="30" width="40" /></a>
+</p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=isabelaamaroh&label=Profile%20views&color=0e75b6&style=flat" alt="isabelaamaroh" /> </p>
+
 <p align="center">
   <img src="https://github.com/IsabelaAmaroh/qrcode/raw/main/Untitled.png" alt="QR Code" width="300"/>
 </p>
 
-- 📄 Conheça minhas experiências: Estágio no projeto de Segmentação de Clientes: Um estudo de caso em uma empresa do ramo de alimentos, envolvendo aprendizado de máquina, estratégia de marketing de RFM e uso da linguagem Python para criar clusters e resolver 9 questões/dores da empresa sendo ferramenta na tomada de decisão.
-  
-- Membro do núcleo de estudante de estruturação do curso de Ciência de Dados na Faculdade de Tecnologia do Estado de São Paulo - Fatec Ourinhos.
-
 <h3 align="left">Linguagens e Ferramentas:</h3>
-
 
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
@@ -71,15 +74,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isabelaamaroh&show_icons=true&locale=en" alt="isabelaamaroh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isabelaamaroh&" alt="isabelaamaroh" /></p>
-
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/isabela-amarocd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/isabela-amarocd" height="30" width="40" /></a>
-<a href="https://instagram.com/isabela_amaroh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="isabela_amaroh" height="30" width="40" /></a>
-</p>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=isabelaamaroh&label=Profile%20views&color=0e75b6&style=flat" alt="isabelaamaroh" /> </p>
-
 
 </div>
