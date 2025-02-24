@@ -11,7 +11,7 @@
 - 📫 Como me contatar: **isabela.amaro@unifesp.br**
 
 <h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
+<p align="center">
 <a href="www.linkedin.com/in/isabela-amarocd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/isabela-amarocd" height="30" width="40" /></a>
 <a href="https://instagram.com/isabela_amaroh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="isabela_amaroh" height="30" width="40" /></a>
 </p>
