@@ -1,5 +1,4 @@
 <h1 align="center">Oi 👋, sou Isabela Amaro</h1>
-<h3 align="center">Uma aprendiz em Ciência de Dados</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -11,7 +10,9 @@
 - 👨‍💻 Todos os meus projetos estão disponíveis em [http://lattes.cnpq.br/7745396196723317](http://lattes.cnpq.br/7745396196723317)
 - 📫 Como me contatar: **isabela.amaro@unifesp.br**
 
-<img src="https://github.com/IsabelaAmaroh/qrcode/blob/main/Untitled.png" alt="QR Code" width="400"/>
+<p align="center">
+  <img src="https://github.com/IsabelaAmaroh/qrcode/raw/main/Untitled.png" alt="QR Code" width="300"/>
+</p>
 
 - 📄 Conheça minhas experiências: Estágio no projeto de Segmentação de Clientes: Um estudo de caso em uma empresa do ramo de alimentos, envolvendo aprendizado de máquina, estratégia de marketing de RFM e uso da linguagem Python para criar clusters e resolver 9 questões/dores da empresa sendo ferramenta na tomada de decisão.
   
